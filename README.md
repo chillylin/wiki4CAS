@@ -1,7 +1,7 @@
 # wiki4CAS
 A wiki for accounting terminologies in China
 
-Please find the contents via the link to "Wiki". 
+Please find the contents in [Wiki](https://github.com/chillylin/wiki4CAS/wiki). 
 
 # Todo
 
